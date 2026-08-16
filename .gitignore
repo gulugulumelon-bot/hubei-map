@@ -1,0 +1,10 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地预览缓存（如有）
+*.log
+
+# 独立的"3D 地球版"项目（自带 git 仓库，不属于本工程）
+where are my classmates-/

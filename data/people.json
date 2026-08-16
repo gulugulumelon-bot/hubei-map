@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "people": [
+    {
+      "name": "示例·张三",
+      "provinceCode": "440000",
+      "provinceName": "广东省",
+      "cityName": "深圳市",
+      "contact": "wx: zhangsan88"
+    }
+  ]
+}
